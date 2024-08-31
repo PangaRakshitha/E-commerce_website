@@ -1,0 +1,18 @@
+.heading{
+    text-align: center;
+    color: whitesmoke;
+    font-weight: 800;
+    font-size: xx-large;
+    margin-top: 20px;
+}
+.products{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 10px;
+    padding: 10px;
+    transition: 0.3s;
+    
+}
+

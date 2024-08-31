@@ -1,0 +1,25 @@
+.heading{
+    text-align: center;
+    color: whitesmoke;
+    font-weight: 800;
+    font-size: xx-large;
+    margin-top: 50px;
+
+}
+.products{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 10px;
+    padding: 10px;
+    transition: 0.3s;
+    padding-top: 50px;    
+}
+.product-card{
+    border-radius: 10px;
+    border: #fff;
+}
+
+
+
